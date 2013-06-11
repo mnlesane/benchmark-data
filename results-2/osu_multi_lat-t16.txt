@@ -1,0 +1,25 @@
+OSU HPX Multi Latency Test
+Size,Bandwidth (microsec)
+1,inf
+2,inf
+4,inf
+8,inf
+16,inf
+32,inf
+64,inf
+128,inf
+256,inf
+512,inf
+1024,inf
+2048,inf
+4096,inf
+8192,inf
+16384,inf
+32768,inf
+65536,inf
+131072,inf
+262144,inf
+524288,inf
+1048576,inf
+2097152,inf
+4194304,inf
